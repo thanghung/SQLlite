@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLiteDemoApplicationActivity</string>
+    <string name="txtData">Data List</string>
+    <string name="studentid">Enter ID</string>
+    <string name="studentname">Enter Name</string>
+    <string name="btnLoad">Load Data</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnFind">Find</string>
+    <string name="btnDelete">Delete</string>
+</resources>
